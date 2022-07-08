@@ -1,0 +1,44 @@
+body,h1,h3,h5
+{
+	font-family: "Raleway", sans-serif
+}
+.grey
+{
+	color:#000!important;background-color:#f1f1f1!important;
+}
+.content
+{
+	max-width:980px
+}
+.container
+{
+	margin-left:16px;margin-bottom:20px
+}
+.card-4
+{
+	box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+}
+.margin
+{
+	margin:16px!important
+}
+.white
+{
+	color:#000!important;background-color:#fff!important
+
+.opacity
+{
+	opacity:0.60
+
+.dark-grey
+{
+	color:#fff!important;background-color:#616161!important
+}
+.padding-32
+{
+	padding-top:32px!important;padding-bottom:32px!important
+}
+.margin-top
+{
+	margin-top:16px!important
+}
